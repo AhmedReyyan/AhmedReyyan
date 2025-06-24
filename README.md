@@ -1,27 +1,152 @@
-<h1 align="center">Hi 👋, I'm Ahmed Reyyan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi 👋, I'm Ahmed Reyyan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedreyyan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedreyyan" /> </p>
+<div align="center">
+  
+### 🇵🇰 A passionate frontend developer from Pakistan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedreyyan" alt="ahmedreyyan" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Always+Learning+New+Tech;Building+Amazing+User+Experiences" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **React**
+</div>
 
-- 💬 Ask me about **HTML,CSS ,JS ,React**
+---
 
-- 📫 How to reach me **reyyanahmed085@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmed-reyyan-0568b3222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed reyyan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ahmed.reyyan.75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed reyyan" height="30" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedreyyan&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/ahmedreyyan?label=Followers&style=for-the-badge&color=blue)](https://github.com/ahmedreyyan)
+[![GitHub stars](https://img.shields.io/github/stars/ahmedreyyan?label=Stars&style=for-the-badge&color=yellow)](https://github.com/ahmedreyyan)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedreyyan&show_icons=true&locale=en&layout=compact" alt="ahmedreyyan" /></p>
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedreyyan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedreyyan&show_icons=true&locale=en" alt="ahmedreyyan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedreyyan&" alt="ahmedreyyan" /></p>
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🌱 I'm currently learning **React** and exploring modern frontend frameworks
+
+💬 Ask me about **HTML, CSS, JavaScript, React**
+
+📫 How to reach me: **reyyanahmed085@gmail.com**
+
+⚡ Fun fact: I love creating beautiful and responsive user interfaces!
+
+🎯 Goal: To become a full-stack developer and contribute to open source
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+### Frontend Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" alt="Frontend Skills" />
+
+### Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedreyyan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedreyyan&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedreyyan&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedreyyan&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity Graph">
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const ahmedReyyan = {
+    currentFocus: "Frontend Development",
+    learningPath: ["React", "Next.js", "TypeScript"],
+    goals: ["Master React Ecosystem", "Build Full-Stack Apps", "Contribute to Open Source"],
+    funFact: "I turn coffee into beautiful user interfaces! ☕️"
+};
+
+console.log("Always coding, always learning! 🚀");
+```
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedreyyan&repo=portfolio-website&theme=radical)](https://github.com/ahmedreyyan/portfolio-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedreyyan&repo=react-todo-app&theme=radical)](https://github.com/ahmedreyyan/react-todo-app)
+
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reyyan-0568b3222/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.reyyan.75/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyyanahmed085@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedreyyan)
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.23%
+React        4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58%
+CSS          2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
+HTML         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
+JSON         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show some love by starring my repositories! ⭐
+
+<img src="https://komarev.com/ghpvc/?username=ahmedreyyan&style=for-the-badge&color=blue" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
