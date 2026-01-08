@@ -33,7 +33,7 @@
 
 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-📫 How to reach me: **reyyanahmed085@gmail.com**
+📫 How to reach me: **dev@ahmedreyyan.me**
 
 ⚡ Fun fact: I love creating beautiful and responsive user interfaces!
 
