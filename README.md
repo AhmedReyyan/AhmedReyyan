@@ -31,7 +31,7 @@
 
 🌱 I'm currently learning **React** and exploring modern frontend frameworks
 
-💬 Ask me about **HTML, CSS, JavaScript, React**
+💬 Ask me about **HTML, CSS, JavaScript, React , Nextjs , Node , Express**
 
 📫 How to reach me: **dev@ahmedreyyan.me**
 
