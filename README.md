@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🇵🇰 A passionate frontend developer from Pakistan
+### 🇵🇰 A passionate Full Stack developer from Pakistan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Always+Learning+New+Tech;Building+Amazing+User+Experiences" alt="Typing SVG" />
 
